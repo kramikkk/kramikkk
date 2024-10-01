@@ -29,7 +29,7 @@ Hello World! I'm Kramik!
 <samp>
  <b><h2 style="color: #fc6203">S T A T U S &nbsp; D E T A I L S</h2> </b>
 
-Portfolio: <a href="">Portfolio.</a>
+Portfolio: <a href="">WIP</a>
 
 <p></p>
 <h3 align="center">
