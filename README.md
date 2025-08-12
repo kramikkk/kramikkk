@@ -16,11 +16,11 @@ Hello World! I'm Kramik!
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C0F7C0&center=true&width=435&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Aspiring+Full+Stack+Web+Developer;Aspiring+Game+Developer;ML+and+AI+Enthusiast" alt="Typing SVG" />
 	</a>
 </p>
-<p align="center">
+<p align="center" style="font-family: Courier New, monospace; font-weight: bold; font-size: 20px;">
   Player Name: Kramik
 </p>
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/432780e4-f104-4387-987f-8611d44dc1c4/d8wrjt7-7129d44a-dd44-488b-a078-ff19cae48b88.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi80MzI3ODBlNC1mMTA0LTQzODctOTg3Zi04NjExZDQ0ZGMxYzQvZDh3cmp0Ny03MTI5ZDQ0YS1kZDQ0LTQ4OGItYTA3OC1mZjE5Y2FlNDhiODguZ2lmIn1dXX0.0VqinZbRf5qwKX3I-r2l90T_BBWdAlyO4zRpoRvw2Ko"/>
+  <img src="https://media.tenor.com/O8gy1gagVDoAAAAj/one-piece-pixel.gif"/>
 </p>
 
 <details align="center">
