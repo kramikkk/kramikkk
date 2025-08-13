@@ -1,4 +1,4 @@
-[![MasterHead](https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif)](https://kramikkk.github.io)
+[![MasterHead](https://64.media.tumblr.com/85e28b2c1364a2084bd7a6727add810a/bf7dea713bb52297-ac/s1280x1920/0f03a27d7d10f150b8abba46376358eb72e1bd89.gifv)](https://kramikkk.github.io)
 <h1 align="center">
 Hello World! I'm Kramik!
 	<a href="https://github.com/kramikkk" target="_self">
