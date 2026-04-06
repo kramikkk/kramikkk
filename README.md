@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0b2e,100:0d1117&height=220&section=header&text=KRAMIK&fontSize=96&fontColor=A855F7&fontAlignY=40&desc=Mark+Jeric+Exconde+%7C+Computer+Engineer+%7C+Developer+%7C+Creator&descAlignY=60&descSize=14&descColor=C084FC&animation=fadeIn&stroke=A855F7&strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,40:4c1d95,100:1e1b4b&height=220&section=header&text=KRAMIK&fontSize=96&fontColor=e9d5ff&fontAlignY=40&desc=Mark+Jeric+Exconde+%7C+Computer+Engineer+%7C+Developer+%7C+Creator&descAlignY=60&descSize=14&descColor=c4b5fd&animation=fadeIn&stroke=e9d5ff&strokeWidth=1.5" width="100%"/>
 </div>
 
 <br/>
@@ -144,5 +144,5 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0b2e,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,40:4c1d95,100:2d1b69&height=130&section=footer&animation=fadeIn" width="100%"/>
 </div>
