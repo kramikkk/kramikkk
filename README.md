@@ -1,107 +1,148 @@
-[![MasterHead](https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif)](https://kramikkk.github.io)
-<h1 align="center">
-Hello World! I'm Kramik!
-	<a href="https://github.com/kramikkk" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
-<p align="center">
-	<a href="https://github.com/kramikkk">
-		<img src="https://komarev.com/ghpvc/?username=kramikkk&label=Profile%20views&color=0e75b6&style=flat" alt="kramikkk" />
-	</a>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0b2e,100:0d1117&height=220&section=header&text=KRAMIK&fontSize=96&fontColor=A855F7&fontAlignY=40&desc=Mark+Jeric+Exconde+%7C+Computer+Engineer+%7C+Developer+%7C+Creator&descAlignY=60&descSize=14&descColor=C084FC&animation=fadeIn&stroke=A855F7&strokeWidth=1.5" width="100%"/>
+</div>
+
 <br/>
-<p align="center">
-	<a href="https://github.com/kramikkk">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C0F7C0&center=true&width=435&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Aspiring+Full+Stack+Web+Developer;Aspiring+Game+Developer;ML+and+AI+Enthusiast" alt="Typing SVG" />
-	</a>
-</p>
-<p align="center" style="font-family: Courier New, monospace; font-weight: bold; font-size: 20px;">
-  Player Name: Kramik
-</p>
-<p align="center">
-  <img src="https://media.tenor.com/O8gy1gagVDoAAAAj/one-piece-pixel.gif"/>
-</p>
 
-<details align="center">
-
-<summary> <b> <samp> See player status </samp></b></summary>
-<samp>
- <b><h2 style="color: #fc6203">S T A T U S &nbsp; D E T A I L S</h2> </b>
-
-Portfolio: <a href="">WIP</a>
-
-<p></p>
-<h3 align="center">
-  Skills:
-</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=560&lines=BS+Computer+Engineering+%40+LSPU+%F0%9F%8E%93;Full+Stack+Developer+%7C+NextJS+%2B+FastAPI+%F0%9F%92%BB;IoT+%26+Embedded+Systems+Builder+%F0%9F%94%A7;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Always+building+something+%E2%9A%A1)](https://github.com/kramikkk)
+
 </div>
 
-<p></p>
+<br/>
 
-<p></p>
-<h3 align="center">
-  Base Stats:
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0b2e,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+> **Computer Engineering student at LSPU** — I build end-to-end: React frontends, FastAPI backends, ESP32 firmware, and 3D-printed hardware.
+> Award-winning robotics builder. Currently shipping a smart IoT shoe care machine with image recognition.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0b2e,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kramikkk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kramikkk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1a0b2e,60:1a0b2e,100:0d1117&height=50&text=%3E+TECH+STACK&fontSize=16&fontColor=A855F7&fontAlignY=50" width="100%"/>
+
+<br/>
+
+![](https://img.shields.io/badge/-WEB%20%26%20BACKEND-A855F7?style=flat-square&logoColor=white)
+
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,fastapi,prisma,postgres&theme=dark&perline=7)](https://skillicons.dev)
+
+<br/>
+
+![](https://img.shields.io/badge/-EMBEDDED%20%26%20HARDWARE-A855F7?style=flat-square&logoColor=white)
+
+[![Skills](https://skillicons.dev/icons?i=arduino,python,tensorflow,opencv&theme=dark&perline=7)](https://skillicons.dev)
+
+<br/>
+
+![](https://img.shields.io/badge/-MOBILE%20%26%20TOOLS-A855F7?style=flat-square&logoColor=white)
+
+[![Skills](https://skillicons.dev/icons?i=kotlin,git,github,vercel,blender&theme=dark&perline=7)](https://skillicons.dev)
+
 </div>
 
-<p></p>
-<h3 align="center">
-  Information:
-</h3>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0b2e,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1a0b2e,60:1a0b2e,100:0d1117&height=50&text=%3E+ACHIEVEMENTS&fontSize=16&fontColor=A855F7&fontAlignY=50" width="100%"/>
+
+<br/>
+
+<table>
+<tr>
+<td align="center">🥇</td>
+<td><strong>Special Award: Master of Sensors</strong> — StackWars 2025</td>
+</tr>
+<tr>
+<td align="center">🥉</td>
+<td><strong>3rd Place</strong> — CHEin Reaction Robotics Category 2022</td>
+</tr>
+<tr>
+<td align="center">🥈</td>
+<td><strong>2nd Place</strong> — LIKHA Robotics, Division Science & Technology Fair 2022</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0b2e,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1a0b2e,60:1a0b2e,100:0d1117&height=50&text=%3E+STATS&fontSize=16&fontColor=A855F7&fontAlignY=50" width="100%"/>
+
+</div>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/kramik/">
-  <img src="https://cdn.icon-icons.com/icons2/2873/PNG/512/linkedin_pixel_logo_icon_181925.png" width="30px" alt="LinkedIn"></a>
-  &nbsp; 
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://x.com/kramik_x">
-  <img src="https://cdn.icon-icons.com/icons2/2873/PNG/512/twitter_pixel_logo_icon_181924.png" width="30px" alt="Twitter"></a>
-  &nbsp; 
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/@kramikyt8336">
-  <img src="https://cdn.icon-icons.com/icons2/2873/PNG/512/youtube_pixel_logo_icon_181918.png" width="30px" alt="YouTube"></a>
-</p> 
+<img src="https://streak-stats.demolab.com?user=kramikkk&theme=dark&background=0d1117&border=A855F7&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=A855F7&dates=E9D5FF&sideNums=ffffff&currStreakNum=ffffff" height="155" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kramikkk&show_icons=true&count_private=true&bg_color=0d1117&border_color=A855F7&icon_color=A855F7&title_color=A855F7&text_color=E9D5FF" height="155" alt="GitHub Stats"/>
+</p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kramikkk&theme=dracula" height="155" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kramikkk&theme=dracula" height="155" alt="Profile Stats"/>
+</p>
 
-</samp>
-</details>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kramikkk&theme=dracula&no-frame=true&margin-w=6&column=7" width="95%" alt="Trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kramikkk&bg_color=0d1117&color=A855F7&line=A855F7&point=E9D5FF&area=true&area_color=A855F7&hide_border=false&border_color=A855F7&title_color=A855F7" width="95%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kramikkk/kramikkk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0b2e,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1a0b2e,60:1a0b2e,100:0d1117&height=50&text=%3E+CONNECT&fontSize=16&fontColor=A855F7&fontAlignY=50" width="100%"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=0d1117&color=0d1117)](https://www.linkedin.com/in/kramik/)
+&nbsp;
+[![Twitter / X](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=A855F7&labelColor=0d1117&color=0d1117)](https://x.com/kramik_x)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=A855F7&labelColor=0d1117&color=0d1117)](https://www.youtube.com/@kramikyt8336)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kramikkk&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0b2e,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
+</div>
