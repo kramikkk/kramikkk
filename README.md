@@ -93,17 +93,7 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=kramikkk&theme=dark&background=0d1117&border=A855F7&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=A855F7&dates=E9D5FF&sideNums=ffffff&currStreakNum=ffffff" height="155" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api?username=kramikkk&show_icons=true&count_private=true&bg_color=0d1117&border_color=A855F7&icon_color=A855F7&title_color=A855F7&text_color=E9D5FF" height="155" alt="GitHub Stats"/>
 </p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kramikkk&theme=dracula" height="155" alt="Top Languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kramikkk&theme=dracula" height="155" alt="Profile Stats"/>
-</p>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kramikkk&theme=dracula&no-frame=true&margin-w=6&column=7" width="95%" alt="Trophies"/>
-</div>
 
 <br/>
 
@@ -129,6 +119,8 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=A855F7&labelColor=0d1117&color=0d1117)](https://kramik-portfolio.vercel.app/)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=0d1117&color=0d1117)](https://www.linkedin.com/in/kramik/)
 &nbsp;
 [![Twitter / X](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=A855F7&labelColor=0d1117&color=0d1117)](https://x.com/kramik_x)
