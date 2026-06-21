@@ -221,13 +221,13 @@
 <br/>
 
 <div align="center">
-<img src="./profile-3d-contrib/profile-monochrome.svg" width="95%" alt="3D GitHub Contribution Graph"/>
+<img src="./assets/profile-monochrome.svg" width="95%" alt="3D GitHub Contribution Graph"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="game.gif" width="95%" alt="GitHub Space Shooter Game"/>
+<img src="./assets/game.gif" width="95%" alt="GitHub Space Shooter Game"/>
 </div>
 
 </div>
@@ -235,6 +235,12 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ffffff,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+<img src="./assets/terminal-quote.svg" alt="Terminal quote: Build beyond limits"/>
+</div>
 
 <br/>
 
