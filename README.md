@@ -104,7 +104,7 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kramikkk/kramikkk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation"/>
+<img src="game.gif" width="95%" alt="GitHub Space Shooter Game"/>
 </div>
 
 <br/>
