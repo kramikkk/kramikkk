@@ -6,7 +6,25 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&lines=BS+Computer+Engineering+%40+LSPU+%F0%9F%8E%93;Full-Stack+Developer+%7C+Next.js+%2B+FastAPI+%F0%9F%92%BB;IoT+%26+Embedded+Systems+Builder+%F0%9F%94%A7;AI-Augmented+Developer+%F0%9F%A4%96;Always+building+something+%E2%9A%A1)](https://github.com/kramikkk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000&color=000000)](https://kramik-portfolio.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000&color=000000)](https://www.linkedin.com/in/kramik/)
+&nbsp;
+[![Twitter / X](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000&color=000000)](https://x.com/kramik_x)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000&color=000000)](https://www.youtube.com/@kramikyt8336)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kramikkk&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=000000)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=660&lines=Web+Development;Mobile+Application+Development;Embedded+Systems+%26+IoT;AI+%26+Computer+Vision;Computer+Hardware+%26+Software+Setup;Homelab+%26+Automation;Robotics+%26+Hardware+Prototyping)](https://github.com/kramikkk)
 
 </div>
 
@@ -91,6 +109,10 @@
 <td><strong>Mobile & Tools</strong></td>
 <td>Kotlin, Android, Git, GitHub Actions, Vercel, Blender</td>
 </tr>
+<tr>
+<td><strong>IT & Homelab</strong></td>
+<td>Computer hardware troubleshooting, OS setup, software configuration, networking basics, self-hosted tools</td>
+</tr>
 </table>
 
 <br/>
@@ -141,7 +163,7 @@
 </div>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=kramikkk&theme=oldie&no-frame=true&no-bg=true&margin-w=4&margin-h=8&column=6&cache_seconds=86400" alt="Mark Jeric B. Exconde's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=kramikkk&theme=oldie&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1&cache_seconds=86400" width="95%" alt="Mark Jeric B. Exconde's GitHub Trophies" />
 </p>
 
 <br/>
@@ -183,28 +205,6 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ffffff,100:0d1117&height=3" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:24292f,60:24292f,100:000000&height=50&text=%3E+CONNECT&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000&color=000000)](https://kramik-portfolio.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000&color=000000)](https://www.linkedin.com/in/kramik/)
-&nbsp;
-[![Twitter / X](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000&color=000000)](https://x.com/kramik_x)
-&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000&color=000000)](https://www.youtube.com/@kramikyt8336)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kramikkk&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=000000)
-
-</div>
 
 <br/>
 
