@@ -91,9 +91,9 @@
 
 </div>
 
-<div align="center">
-<img src="./profile-3d-contrib/profile-monochrome.svg" width="95%" alt="3D GitHub Contribution Graph"/>
-</div>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=kramikkk&theme=oldie&no-frame=true&no-bg=true&margin-w=4&margin-h=8&column=6&cache_seconds=86400" alt="Mark Jeric B. Exconde's GitHub Trophies" />
+</p>
 
 <br/>
 
@@ -105,6 +105,12 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kramikkk&bg_color=000000&color=ffffff&line=ffffff&point=c9d1d9&area=true&area_color=ffffff&hide_border=false&border_color=ffffff&title_color=ffffff" width="95%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./profile-3d-contrib/profile-monochrome.svg" width="95%" alt="3D GitHub Contribution Graph"/>
 </div>
 
 <br/>
