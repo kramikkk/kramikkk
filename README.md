@@ -8,9 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000&color=000000)](https://kramik-portfolio.vercel.app/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000&color=000000)](https://www.linkedin.com/in/kramik/)
-&nbsp;
-[![Twitter / X](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000&color=000000)](https://x.com/kramik_x)
+[![LinkedIn](./assets/linkedin-badge.svg)](https://www.linkedin.com/in/kramikkk/)
 &nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000&color=000000)](https://www.youtube.com/@kramikyt8336)
 
