@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:24292f,100:0d1117&height=220&section=header&text=KRAMIK&fontSize=96&fontColor=ffffff&fontAlignY=40&desc=Mark+Jeric+Exconde+%7C+Computer+Engineer+%7C+Developer+%7C+Creator&descAlignY=60&descSize=14&descColor=e6edf3&animation=fadeIn&stroke=ffffff&strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:24292f,100:0d1117&height=220&section=header&text=KRAMIK&fontSize=96&fontColor=ffffff&fontAlignY=40&desc=Computer+Engineer+%7C+Full-Stack+Developer+%7C+AI-Augmented+Developer&descAlignY=60&descSize=14&descColor=e6edf3&animation=fadeIn&stroke=ffffff&strokeWidth=1.5" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&lines=BS+Computer+Engineering+%40+LSPU+%F0%9F%8E%93;Full+Stack+Developer+%7C+NextJS+%2B+FastAPI+%F0%9F%92%BB;IoT+%26+Embedded+Systems+Builder+%F0%9F%94%A7;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Always+building+something+%E2%9A%A1)](https://github.com/kramikkk)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&lines=BS+Computer+Engineering+%40+LSPU+%F0%9F%8E%93;Full-Stack+Developer+%7C+Next.js+%2B+FastAPI+%F0%9F%92%BB;IoT+%26+Embedded+Systems+Builder+%F0%9F%94%A7;AI-Augmented+Developer+%F0%9F%A4%96;Always+building+something+%E2%9A%A1)](https://github.com/kramikkk)
 
 </div>
 
@@ -16,8 +16,50 @@
 
 <br/>
 
-> **Computer Engineering student at LSPU** — I build end-to-end: React frontends, FastAPI backends, ESP32 firmware, and 3D-printed hardware.
+> **Hi, I'm Kramik!** — I build end-to-end: React frontends, FastAPI backends, ESP32 firmware, and 3D-printed hardware.
 > Award-winning robotics builder. Currently shipping a smart IoT shoe care machine with image recognition.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ffffff,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:24292f,60:24292f,100:000000&height=50&text=%3E+FEATURED+PROJECTS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+
+<br/>
+
+<table>
+<tr>
+<th>Project</th>
+<th>Focus</th>
+<th>Stack</th>
+</tr>
+<tr>
+<td width="25%"><strong><a href="https://github.com/kramikkk/smart-shoe-care-machine">Smart Shoe Care Machine</a></strong></td>
+<td>IoT shoe cleaning, sterilization, and drying system with image recognition.</td>
+<td>TypeScript, FastAPI, ESP32, AI</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/kramikkk/conan-ai-cam">Conan AI Cam</a></strong></td>
+<td>ESP32-CAM TinyML vision system for real-time object detection with TFT display.</td>
+<td>C, TinyML, Embedded Vision</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/kramikkk/slt-app">SLT App</a></strong></td>
+<td>Mobile sign language translator with sign-to-text and text-to-sign workflows.</td>
+<td>Kotlin, Android, ML</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/kramikkk/vitalink-ai">Vitalink AI</a></strong></td>
+<td>IoT health and activity dashboard for student monitoring.</td>
+<td>C, IoT, Dashboard</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -32,21 +74,28 @@
 
 <br/>
 
-![](https://img.shields.io/badge/-WEB%20%26%20BACKEND-000000?style=flat-square&logoColor=white)
-
-[![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,fastapi,prisma,postgres&theme=dark&perline=7)](https://skillicons.dev)
+<table>
+<tr>
+<th>Area</th>
+<th>Technologies</th>
+</tr>
+<tr>
+<td><strong>Web & Backend</strong></td>
+<td>Next.js, React, TypeScript, Tailwind CSS, FastAPI, Prisma, PostgreSQL</td>
+</tr>
+<tr>
+<td><strong>Embedded & AI</strong></td>
+<td>ESP32, Arduino, Python, TensorFlow, OpenCV, TinyML</td>
+</tr>
+<tr>
+<td><strong>Mobile & Tools</strong></td>
+<td>Kotlin, Android, Git, GitHub Actions, Vercel, Blender</td>
+</tr>
+</table>
 
 <br/>
 
-![](https://img.shields.io/badge/-EMBEDDED%20%26%20HARDWARE-000000?style=flat-square&logoColor=white)
-
-[![Skills](https://skillicons.dev/icons?i=arduino,python,tensorflow,opencv&theme=dark&perline=7)](https://skillicons.dev)
-
-<br/>
-
-![](https://img.shields.io/badge/-MOBILE%20%26%20TOOLS-000000?style=flat-square&logoColor=white)
-
-[![Skills](https://skillicons.dev/icons?i=kotlin,git,github,vercel,blender&theme=dark&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,fastapi,prisma,postgres,arduino,python,tensorflow,opencv,kotlin,git,github,vercel,blender&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
@@ -109,6 +158,16 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ffffff,100:0d1117&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:24292f,60:24292f,100:000000&height=50&text=%3E+CONTRIBUTION+VISUALS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+
+<br/>
+
 <div align="center">
 <img src="./profile-3d-contrib/profile-monochrome.svg" width="95%" alt="3D GitHub Contribution Graph"/>
 </div>
@@ -117,6 +176,8 @@
 
 <div align="center">
 <img src="game.gif" width="95%" alt="GitHub Space Shooter Game"/>
+</div>
+
 </div>
 
 <br/>
