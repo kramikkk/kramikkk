@@ -91,6 +91,12 @@
 
 </div>
 
+<div align="center">
+<img src="./profile-3d-contrib/profile-monochrome.svg" width="95%" alt="3D GitHub Contribution Graph"/>
+</div>
+
+<br/>
+
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=kramikkk&theme=dark&background=000000&border=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" height="155" alt="GitHub Streak"/>
 </p>
