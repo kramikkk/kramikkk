@@ -10,7 +10,7 @@
 &nbsp;
 [![LinkedIn](./assets/linkedin-badge.svg)](https://www.linkedin.com/in/kramikkk/)
 &nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000&color=000000)](https://www.youtube.com/@kramikyt8336)
+[![YouTube](https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000&color=000000)](https://www.youtube.com/@kramik-code)
 
 <br/>
 
@@ -92,30 +92,62 @@
 
 <table>
 <tr>
-<th>Area</th>
-<th>Technologies</th>
+<th width="24%">Area</th>
+<th>Stack & Focus</th>
 </tr>
 <tr>
-<td><strong>Web & Backend</strong></td>
-<td>Next.js, React, TypeScript, Tailwind CSS, FastAPI, Prisma, PostgreSQL</td>
+<td align="left"><strong>Web & Backend</strong></td>
+<td align="left">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/>
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white"/>
+<img alt="Prisma" src="https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white"/>
+<br/>
+<sub>Full-stack applications, REST APIs, database-backed dashboards, and deployment workflows.</sub>
+</td>
 </tr>
 <tr>
-<td><strong>Embedded & AI</strong></td>
-<td>ESP32, Arduino, Python, TensorFlow, OpenCV, TinyML</td>
+<td align="left"><strong>Embedded & AI</strong></td>
+<td align="left">
+<img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=flat-square"/>
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white"/>
+<img alt="TinyML" src="https://img.shields.io/badge/TinyML-000000?style=flat-square"/>
+<br/>
+<sub>Sensor systems, firmware, computer vision, on-device inference, and automation logic.</sub>
+</td>
 </tr>
 <tr>
-<td><strong>Mobile & Tools</strong></td>
-<td>Kotlin, Android, Git, GitHub Actions, Vercel, Blender</td>
+<td align="left"><strong>Mobile & Tools</strong></td>
+<td align="left">
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white"/>
+<img alt="Android" src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white"/>
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img alt="Blender" src="https://img.shields.io/badge/Blender-000000?style=flat-square&logo=blender&logoColor=white"/>
+<br/>
+<sub>Android apps, CI automation, deployment tooling, and 3D prototyping support.</sub>
+</td>
 </tr>
 <tr>
-<td><strong>IT & Homelab</strong></td>
-<td>Computer hardware troubleshooting, OS setup, software configuration, networking basics, self-hosted tools</td>
+<td align="left"><strong>IT & Homelab</strong></td>
+<td align="left">
+<img alt="Hardware" src="https://img.shields.io/badge/Hardware-000000?style=flat-square"/>
+<img alt="OS Setup" src="https://img.shields.io/badge/OS_Setup-000000?style=flat-square"/>
+<img alt="Networking" src="https://img.shields.io/badge/Networking-000000?style=flat-square"/>
+<img alt="Self-Hosted" src="https://img.shields.io/badge/Self--Hosted-000000?style=flat-square"/>
+<img alt="Troubleshooting" src="https://img.shields.io/badge/Troubleshooting-000000?style=flat-square"/>
+<br/>
+<sub>Computer hardware tinkering, operating system setup, software configuration, and self-hosted tools.</sub>
+</td>
 </tr>
 </table>
-
-<br/>
-
-[![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,fastapi,prisma,postgres,arduino,python,tensorflow,opencv,kotlin,git,github,vercel,blender&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
