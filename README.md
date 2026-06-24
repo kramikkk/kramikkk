@@ -166,15 +166,19 @@
 <table>
 <tr>
 <td align="center">🥇</td>
-<td><strong>Special Award: Master of Sensors</strong> — StackWars 2025</td>
-</tr>
-<tr>
-<td align="center">🥉</td>
-<td><strong>3rd Place</strong> — CHEin Reaction Robotics Category 2022</td>
+<td><strong>Master of Sensors Special Award</strong> — Exhibit Arduino 2025 — <em>StackWars<em/> </td>
 </tr>
 <tr>
 <td align="center">🥈</td>
-<td><strong>2nd Place</strong> — LIKHA Robotics, Division Science & Technology Fair 2022</td>
+<td><strong>2nd Place</strong> — Division Science and Technology Fair 2022, Robotics and Intelligent Machines Category Research Competition (LIKHA) — <em>Smart Face Shield</em></td>
+</tr>
+<tr>
+<td align="center">🥉</td>
+<td><strong>3rd Place</strong> — 7th Regional Science Investigatory Project 2022, Applied Science Category (CHEIN REACTION) — <em>Smart Face Shield</em></td>
+</tr>
+<tr>
+<td align="center">🏆</td>
+<td><strong>Division Winner: Best Capstone Project</strong> — Division-Wide Senior High School Students' Conference and Exhibit of Best Capstone Projects and Innovative Learning Outputs 2022 — <em>Smart Face Shield</em></td>
 </tr>
 </table>
 
