@@ -1,4 +1,4 @@
-<a href="https://gitascii.com">
+<a>
   <img
     src="https://gitascii.com/api/kramikkk?v=1787839238967"
     alt="GitAscii Widget"
