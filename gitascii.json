@@ -11503,7 +11503,10 @@
         "invert": false,
         "edgeEnhance": false,
         "autoContrast": true,
-        "dithering": true
+        "dithering": true,
+        "customWhoami": "MJ Exconde",
+        "lockAspectRatio": true,
+        "customTitle": ""
       },
       "locked": false,
       "visible": true,
@@ -11523,16 +11526,17 @@
       },
       "config": {
         "accentColor": "#008e00",
-        "infoHost": "kramikkk",
+        "infoHost": "",
         "staticMode": false,
         "showNow": true,
-        "customNow": "Computer Engineer",
-        "customSite": "kramik-portfolio.vercel.app",
+        "customNow": "",
+        "customSite": "",
         "customLangs": "",
         "showBullet1": true,
         "showBullet2": true,
         "customBullet2": "",
-        "customAlso": "Web Developer"
+        "customAlso": "Open to Work",
+        "showAlso": true
       },
       "locked": false,
       "visible": true,
@@ -11572,26 +11576,26 @@
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
       "position": {
-        "x": 0,
+        "x": 48,
         "y": 624
       },
       "size": {
-        "width": 800,
-        "height": 120
+        "width": 704,
+        "height": 112
       },
       "config": {
-        "customText": "Kramik",
+        "customText": "MRKJRCXCND",
         "asciiFont": "block",
         "charSpacing": 4,
         "fontSize": 12,
         "charset": "blocks",
         "customCharset": "",
         "asciiLines": [
-          "░▒    ▓█    ░▒▓█░▒▓█     ░▒▓█░▒     ▓█    ░▒    ▓█░▒▓█░▒    ▓█    ░▒",
-          "▓█  ░▒▓     █░    ▒▓    █░    ▒▓    █░▒▓█░▒▓       █░       ▒▓  █░▒ ",
-          "▓█░▒▓█      ░▒▓█░▒▓█    ░▒▓█░▒▓█    ░▒ ▓█ ░▒       ▓█       ░▒▓█░▒  ",
-          "▓█  ░▒▓█    ░▒  ▓█░▒    ▓█    ░▒    ▓█    ░▒       ▓█       ░▒  ▓█░▒",
-          "▓█    ░▒    ▓█    ░▒    ▓█    ░▒    ▓█    ░▒    ▓█░▒▓█░▒    ▓█    ░▒"
+          "░▒    ▓█    ░▒▓█░▒▓█    ░▒    ▓█    ░▒▓█░▒▓█    ░▒▓█░▒▓█     ░▒▓█░▒     ▓█    ░▒     ▓█░▒▓█     ░▒    ▓█    ░▒▓█░▒▓ ",
+          "█░▒▓█░▒▓    █░    ▒▓    █░  ▒▓█        ░▒       ▓█    ░▒    ▓█    ░▒     ▓█░▒▓█     ░▒    ▓█    ░▒▓   █░    ▒▓    █░",
+          "▒▓ █░ ▒▓    █░▒▓█░▒▓    █░▒▓█░         ▒▓       █░▒▓█░▒▓    █░             ▒▓       █░          ▒▓█░  ▒▓    █░    ▒▓",
+          "█░    ▒▓    █░  ▒▓█░    ▒▓  █░▒▓    █░  ▒▓      █░  ▒▓█░    ▒▓    █░     ▒▓█░▒▓     █░    ▒▓    █░ ▒▓ █░    ▒▓    █░",
+          "▒▓    █░    ▒▓    █░    ▒▓    █░     ▒▓█░       ▒▓    █░     ▒▓█░▒▓     █░    ▒▓     █░▒▓█░     ▒▓   █░▒    ▓█░▒▓█░ "
         ],
         "animationType": "scan-lines",
         "animationPreviewKey": 21,
